@@ -80,7 +80,7 @@ const BookRide: React.FC = () => {
         </Text>
         <View className="flex flex-col w-full items-center justify-center mt-10">
           <Text className="text-lg font-JakartaRegular">
-            From: {userAddress}
+            From: {userAddress} 
           </Text>
         </View>
         <View className="flex flex-col w-full items-center justify-center mt-10">
